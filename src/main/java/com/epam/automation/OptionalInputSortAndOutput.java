@@ -30,4 +30,14 @@ public class OptionalInputSortAndOutput {
 
     }
 
+    public static class Main2 {
+        public static void main(String[] args) {
+            int j = 6;
+            int s = 0;
+            for (int i = 0; i < j; i++,j--) {
+                s+=i;
+            }
+            System.out.println(s);
+        }
+    }
 }
