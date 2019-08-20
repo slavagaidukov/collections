@@ -17,7 +17,7 @@ public class ReverseOrder {
             line = scanner.nextLine();
             char lineArray[] = line.toCharArray();
             for (int i = lineArray.length - 1; i > 0; i--) {
-pw.write(lineArray[i]);
+                pw.write(lineArray[i]);
             }
             pw.println();
         }

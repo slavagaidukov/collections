@@ -1,0 +1,14 @@
+main
+|---dir1
+|---    innerdir
+|       slava.java
+|---dir2
+|   dir.java
+|   dir3.java
+|   dir4.java
+|---dir3
+|   dir5.java
+|   dir6.java
+|   dir7.java
+|  *Program.java
+|  *structureFile
